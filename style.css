@@ -86,3 +86,23 @@ hr{
 .content{
     margin-top: 100px;
 }
+
+
+.footericon i{
+     border-radius: 60px;
+  background-color: #c0c0c0;
+
+ color: black;
+}
+
+.footer{
+    font-size: 13px;
+    margin-top: 50px;
+}
+
+.text-dark{
+    font-weight: bolder;
+    font-style: oblique;
+    text-shadow: 30px solid rgb(19, 16, 16);
+    word-spacing: 0px;
+}
