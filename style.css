@@ -106,3 +106,7 @@ hr{
     text-shadow: 30px solid rgb(19, 16, 16);
     word-spacing: 0px;
 }
+
+.tab-img{
+    padding-left: 100px;
+}
